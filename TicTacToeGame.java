@@ -1,5 +1,5 @@
-package com.example.galel.tictactoegame;
-// Gal Elefersy 315850008
+package com.example.arbel.tictactoegame;
+
 import android.widget.Button;
 public class TicTacToeGame {
     Button[][] ticTacToe;
